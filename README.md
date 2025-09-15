@@ -110,6 +110,21 @@ The scripts will:
 
 ---
 
+## 📂 Dataset Source  
+
+The data used in this project is the **Loan Default Dataset** originally published on Kaggle by *YasserH*. You can view/download it here:
+
+[Loan Default Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset/data)
+
+---
+
+If you cleaned or modified the dataset, you can also include:
+
+- **Cleaned Data Version**: [Download cleaned version (if hosting elsewhere, e.g. Google Drive)](link-to-your-file)
+- **Note**: The cleaned or processed data may differ from the original source (e.g. missing values handled, renamed columns, etc.)
+
+---
+
 ## 🏆 Conclusion  
 This project successfully demonstrates a **complete end-to-end data science workflow**:  
 
