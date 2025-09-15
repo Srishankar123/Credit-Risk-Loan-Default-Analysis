@@ -83,10 +83,13 @@ pip install pandas sqlalchemy pymysql scikit-learn matplotlib seaborn jupyter
 
 ### 3️⃣ Run the Notebook  
 - Open and run the notebook 👉 [Loan.ipynb](Loan.ipynb)  
-- The scripts will:  
-  - Create/populate MySQL tables  
-  - Perform data cleaning, EDA, feature engineering  
-  - Train & evaluate ML models  
+- Or view it online without downloading:  
+  🔗 [View Loan.ipynb on nbviewer]([https://nbviewer.org/github/USERNAME/REPO_NAME/blob/main/Loan.ipynb](https://nbviewer.org/github/Srishankar123/Credit-Risk-Loan-Default-Analysis/blob/main/Loan.ipynb))  
+
+The scripts will:  
+- Create/populate MySQL tables  
+- Perform data cleaning, EDA, feature engineering  
+- Train & evaluate ML models  
 
 ---
 
