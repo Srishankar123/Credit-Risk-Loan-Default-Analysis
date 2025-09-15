@@ -115,6 +115,7 @@ The scripts will:
 The data used in this project is the **Loan Default Dataset** originally published on Kaggle by *YasserH*. You can view/download it here:
 
 [Loan Default Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset/data)
+My cleaned versions are available here: [Google Drive Folder](https://drive.google.com/drive/folders/1t_1ZXhX2herlKiRwqGBqoBrwXu1kSh3v)  
 
 ---
 
