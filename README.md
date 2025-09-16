@@ -1,4 +1,4 @@
-# 💳 Credit-Risk-Loan-Default-Analysis-Project
+# 💳 Credit Risk Loan Default Analysis Project
 
 ---
 
