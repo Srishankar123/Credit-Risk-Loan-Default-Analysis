@@ -92,7 +92,7 @@ The project follows a **SQL → Python → Machine Learning → BI** flow:
 
 Here’s a **snapshot of key visualizations** from the analysis (loan status distribution, defaults by region, income-risk segmentation) created directly in **Jupyter Notebook** using **Matplotlib & Seaborn**:  
 
-![Loan Analysis Charts][cre](https://github.com/user-attachments/assets/812f9c21-2f21-4211-b5e0-7195b4413e8d
+![Loan Analysis Charts][cre](https://github.com/user-attachments/assets/812f9c21-2f21-4211-b5e0-7195b4413e8d)
 ) 
 
 *Note: This is a static image exported from Jupyter Notebook, not an interactive dashboard.*
