@@ -88,11 +88,15 @@ The project follows a **SQL → Python → Machine Learning → BI** flow:
 
 ---
 
-## 📊 Dashboard Preview  
+## 📊 Charts Preview  
 
-🔗 [Power BI Dashboard (View Here)](https://github.com/Srishankar123/Credit-Risk-Loan-Default-Analysis/blob/main/dashboard_preview.png)  
+Here’s a **snapshot of key visualizations** from the analysis (loan status distribution, defaults by region, income-risk segmentation) created directly in **Jupyter Notebook** using **Matplotlib & Seaborn**:  
 
-*(Preview visualizing loan status trends, region-based defaults, and income-risk segmentation.)*  
+https://github.com/user-attachments/assets/e4857c86-8210-4621-901f-fd90a8135bf5
+  
+
+*Note: This is a static image exported from Jupyter Notebook, not an interactive dashboard.*
+
 
 ---
 
